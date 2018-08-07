@@ -23,7 +23,7 @@ namespace FullNames
         }
 
         // a string method which allows for two string inputs 
-        private  static string FullName(string firstName, string lastName)
+        private static string FullName(string firstName, string lastName)
         {
             // creates a new value that combines first and last name
             string name = firstName + " " + lastName + "!";
